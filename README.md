@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning C++, Visual Studio 2022
 - 💞️ I’m not looking to collaborate 
-// - 📫 How to reach me 
+- // - 📫 How to reach me 
 
 <!---
 mph2016/mph2016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
