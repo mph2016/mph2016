@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mph2016
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning C++, Visual Studio 2022
-- 💞️ I’m not looking to collaborate 
+- 💀 I’m not looking to collaborate 
 
 
 <!---
